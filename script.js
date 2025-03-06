@@ -6,4 +6,4 @@ const currentURL = window.location.href;
 const urlLength = currentURL.length;
 
 // Display the length in the required format
-alert(The length of the URL is: ${urlLength});
+alert(`The length of the URL is: ${urlLength}`);
